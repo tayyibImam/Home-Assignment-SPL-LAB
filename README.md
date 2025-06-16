@@ -56,6 +56,7 @@ No prime numbers found in the digit sums.
 Clone the repository:
 
 git clone https://github.com/your-username/Home-Assignment-SPL-LAB.git
+
 cd Home-Assignment-SPL-LAB
 
 
