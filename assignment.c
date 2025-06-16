@@ -104,7 +104,7 @@ int main()
         for (int i = 0; i < n; i++)
         {
             if(isPrime(ArrayB[i]))
-                printf("%d", ArrayB[i]);
+                printf("%d ", ArrayB[i]);
 
         }
         
